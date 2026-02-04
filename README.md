@@ -13,6 +13,12 @@ This platform addresses the challenge of optimizing prices for products where tr
 - **Algorithmic comparison**: Evaluating performance of different pricing policies (Thompson Sampling, Epsilon-Greedy, Online Learning) against optimal baselines
 - **Non-stationary demand**: Testing how algorithms adapt to seasonal variations or market shifts
 
+<img width="2499" height="1250" alt="1" src="https://github.com/user-attachments/assets/3ee38f8a-c5b1-4066-9590-1bc8e870f484" />
+<img width="2499" height="1250" alt="2" src="https://github.com/user-attachments/assets/7c461dff-73b3-4388-a7eb-013f7864fe8f" />
+<img width="2499" height="1250" alt="3" src="https://github.com/user-attachments/assets/16a9823f-d793-41e0-b9ea-065ce7476afa" />
+
+
+
 ## Features
 
 - **5 Pricing Algorithms**
